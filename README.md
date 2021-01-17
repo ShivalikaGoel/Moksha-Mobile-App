@@ -1,2 +1,4 @@
 # Moksha
-In today’s world of extreme  competition, work load, exam stress, people often suffer from elevated stress levels.  According to the World Health Organization (WHO), 1 in 13 globally suffers from anxiety. Moreover, Nearly 150 million Indians need mental health care services but less than 30 million are seeking care, according to the National Mental Health Survey.  Mental health includes emotional , psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices. So,our aim is to  create a technically sound solution that will help people overcome stress and anxiety by channelising their negative energy.
+Moksha is an android application which consist of zen games and a chat bot that help people overcome stress and anxiety by channelising their negative energy.
+## Screenshots:
+
