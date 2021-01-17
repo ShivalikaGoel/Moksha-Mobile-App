@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/back2"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/mute"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/mute" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Weclome to Moksha !"
+        android:textColor="#ffffff"
+        android:textSize="40dp"
+        android:textStyle="italic|bold"
+
+        app:fontFamily="@font/archivo_narrow_bold_italic" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Let go of the thoughts that don't make you strong."
+        android:textColor="#ffffff"
+        android:textStyle="italic"
+        android:layout_gravity="center"
+
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="260dp"
+        android:orientation="vertical">
+        <Button
+            android:layout_width="wrap_content"
+            android:id="@+id/bot"
+            android:layout_height="wrap_content"
+            android:text="Nirvana "
+            />
+        <Button
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Zen Game"
+            />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/archivo_narrow_bold_italic</item>
+        <item>@font/arizonia</item>
+        <item>@font/aubrey</item>
+        <item>@font/bilbo</item>
+    </array>
+</resources>
